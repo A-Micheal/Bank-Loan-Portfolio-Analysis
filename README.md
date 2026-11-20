@@ -1,4 +1,4 @@
-# Financial Loan Portfolio Dashboard (Excel)
+# Bank Loan Portfolio Dashboard (Excel)
 
 ## Overview
 
